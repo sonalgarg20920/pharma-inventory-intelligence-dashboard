@@ -1,11 +1,11 @@
-import os
-import glob
 import base64
 
-from google.auth.transport.requests import Request
+import streamlit as st
+
 from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
+
 
 SCOPES = [
     "https://www.googleapis.com/auth/gmail.readonly"
@@ -14,52 +14,16 @@ SCOPES = [
 
 def get_credentials():
 
-    creds = None
+    creds = Credentials(
+        token=None,
+        refresh_token=st.secrets["gmail"]["refresh_token"],
+        token_uri=st.secrets["gmail"]["token_uri"],
+        client_id=st.secrets["gmail"]["client_id"],
+        client_secret=st.secrets["gmail"]["client_secret"],
+        scopes=SCOPES
+    )
 
-    if os.path.exists("token.json"):
-        creds = Credentials.from_authorized_user_file(
-            "token.json",
-            SCOPES
-        )
-
-    if not creds or not creds.valid:
-
-        if (
-            creds
-            and creds.expired
-            and creds.refresh_token
-        ):
-
-            creds.refresh(
-                Request()
-            )
-
-        else:
-
-            client_secret_file = glob.glob(
-                "client_secret*.json"
-            )[0]
-
-            flow = (
-                InstalledAppFlow
-                .from_client_secrets_file(
-                    client_secret_file,
-                    SCOPES
-                )
-            )
-
-            creds = flow.run_local_server(
-                port=8081
-            )
-
-        with open(
-            "token.json",
-            "w"
-        ) as token:
-
-            token.write(
-                creds.to_json()
-            )
+    creds.refresh(Request())
 
     return creds
 
@@ -91,7 +55,6 @@ def download_latest_stock():
     )
 
     if not messages:
-
         raise Exception(
             "No Stock Detail email found."
         )
