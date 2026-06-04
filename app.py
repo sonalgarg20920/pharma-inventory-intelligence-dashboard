@@ -53,26 +53,66 @@ elif source == "Upload File":
 
 elif source == "Load Latest From Gmail":
 
-    with st.spinner(
-        "Downloading latest inventory from Gmail..."
+    if st.button(
+        "🔄 Refresh From Gmail"
     ):
 
-        email_info = (
-            gmail_loader.download_latest_stock()
-        )
+        with st.spinner(
+            "Downloading latest inventory from Gmail..."
+        ):
+
+            st.session_state[
+                "email_info"
+            ] = (
+                gmail_loader
+                .download_latest_stock()
+            )
+
+    if (
+        "email_info"
+        not in st.session_state
+    ):
+
+        with st.spinner(
+            "Loading latest inventory..."
+        ):
+
+            st.session_state[
+                "email_info"
+            ] = (
+                gmail_loader
+                .download_latest_stock()
+            )
+
+    email_info = (
+        st.session_state[
+            "email_info"
+        ]
+    )
 
     st.success(
         "Latest inventory loaded from Gmail"
     )
 
-    st.info(
-        f"""
-Subject: {email_info['subject']}
+    col1, col2, col3 = st.columns(3)
 
-Received: {email_info['email_date']}
+    col1.metric(
+        "Source",
+        "Gmail"
+    )
 
-Attachment: {email_info['attachment_name']}
-"""
+    col2.metric(
+        "Subject",
+        email_info["subject"]
+    )
+
+    col3.metric(
+        "Attachment",
+        email_info["attachment_name"]
+    )
+
+    st.caption(
+        f"Email Received: {email_info['email_date']}"
     )
 
     df = pd.read_excel(
