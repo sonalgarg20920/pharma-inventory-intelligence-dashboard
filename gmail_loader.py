@@ -14,38 +14,21 @@ SCOPES = [
 ]
 
 
-def running_in_cloud():
+def get_cloud_credentials():
 
-    return (
-        os.environ.get(
-            "STREAMLIT_SERVER_HEADLESS"
-        )
-        is not None
+    creds = Credentials(
+        token=None,
+        refresh_token=st.secrets["gmail"]["refresh_token"],
+        token_uri=st.secrets["gmail"]["token_uri"],
+        client_id=st.secrets["gmail"]["client_id"],
+        client_secret=st.secrets["gmail"]["client_secret"],
+        scopes=SCOPES
     )
 
-def get_credentials():
+    creds.refresh(Request())
 
-    st.write("SECRETS KEYS:", list(st.secrets.keys()))
+    return creds
 
-    try:
-
-        if (
-            "gmail" in st.secrets
-            and
-            "refresh_token" in st.secrets["gmail"]
-        ):
-
-            st.write("Using Cloud Credentials")
-
-            return get_cloud_credentials()
-
-    except Exception as e:
-
-        st.write("Secrets Error:", str(e))
-
-    st.write("Using Local Credentials")
-
-    return get_local_credentials()
 
 def get_local_credentials():
 
@@ -72,14 +55,20 @@ def get_local_credentials():
 
         else:
 
-            client_secret_file = glob.glob(
+            client_secret_files = glob.glob(
                 "client_secret*.json"
-            )[0]
+            )
+
+            if not client_secret_files:
+
+                raise Exception(
+                    "client_secret JSON file not found."
+                )
 
             flow = (
                 InstalledAppFlow
                 .from_client_secrets_file(
-                    client_secret_file,
+                    client_secret_files[0],
                     SCOPES
                 )
             )
@@ -102,8 +91,19 @@ def get_local_credentials():
 
 def get_credentials():
 
-    if running_in_cloud():
-        return get_cloud_credentials()
+    try:
+
+        if (
+            "gmail" in st.secrets
+            and
+            st.secrets["gmail"]["refresh_token"]
+        ):
+
+            return get_cloud_credentials()
+
+    except Exception:
+
+        pass
 
     return get_local_credentials()
 
