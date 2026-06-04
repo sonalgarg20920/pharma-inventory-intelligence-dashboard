@@ -1,60 +1,86 @@
 # Pharma Inventory Intelligence Dashboard
 
-An interactive inventory analytics dashboard built using Streamlit, 
-Pandas, and Plotly to monitor inventory health, identify expiry risk, and 
-support proactive inventory management decisions.
+## Overview
+
+An end-to-end inventory analytics dashboard built using Streamlit, Pandas, 
+Plotly, and the Gmail API.
+
+The application automatically retrieves the latest inventory report from 
+Gmail or allows manual file uploads, then provides actionable inventory 
+insights including expiry risk analysis, product exploration, and 
+inventory monitoring.
 
 ---
 
-## Business Problem
+## Live Demo
 
-Pharmaceutical inventory often contains products approaching expiry, 
-creating financial risk through product write-offs and inventory wastage.
+Streamlit App:
 
-This dashboard provides visibility into inventory at risk by segmenting 
-products based on expiry timelines and enabling users to drill down into 
-inventory details using interactive filters.
+https://pharma-inventory-intelligence-dashboard-yyqrj7igpsxxrxgjmb7sm6.streamlit.app/
 
 ---
 
 ## Features
 
-### KPI Monitoring
+### Inventory Analytics
 
-* Total Inventory Value
-* Risk Inventory Value (Products expiring within 60 days)
-* Risk Inventory Percentage
+* Inventory risk analysis
+* Expiry window distribution
+* Product-level inventory exploration
+* Marketing group risk analysis
+* Interactive visualizations
 
-### Expiry Risk Analysis
+### Automated Gmail Integration
 
-* Inventory segmentation by expiry window:
+* Connects to Gmail using OAuth2
+* Retrieves the latest email with subject:
 
-  * <30 Days
-  * 30-60 Days
-  * 60-90 Days
-  * 90-120 Days
-  * 120-150 Days
-  * 150+ Days
+  * Stock Detail
+* Downloads the latest inventory attachment automatically
+* One-click refresh from Gmail
+* Displays:
 
-### Marketing Group Risk Analysis
+  * Email subject
+  * Email received timestamp
+  * Attachment name
 
-* Identify marketing groups contributing most to near-expiry inventory.
+### Data Sources
 
-### Inventory Product Explorer
+Users can choose between:
 
-Interactive filters for:
+1. Upload Inventory File
+2. Load Latest Inventory From Gmail
 
-* Expiry Bucket
-* Marketing Group
-* Category
-* Days to Expiry
-* Stock Value
-* Stock Quantity
+---
 
-Additional functionality:
+## Technology Stack
 
-* Product Search
-* CSV Export
+### Frontend
+
+* Streamlit
+
+### Data Processing
+
+* Pandas
+* NumPy
+
+### Visualization
+
+* Plotly
+
+### File Handling
+
+* openpyxl
+* xlrd
+
+### Integrations
+
+* Gmail API
+* Google OAuth2
+
+### Deployment
+
+* Streamlit Community Cloud
 
 ---
 
@@ -62,11 +88,11 @@ Additional functionality:
 
 ### KPI Overview
 
-![KPI Dashboard](screenshots/kpis.png)
+![KPI Overview](screenshots/kpis.png)
 
 ### Inventory Distribution by Expiry Window
 
-![Inventory 
+![Expiry Window 
 Distribution](screenshots/inventory_distribution_by_expiry_window.png)
 
 ### Product Explorer
@@ -75,66 +101,90 @@ Distribution](screenshots/inventory_distribution_by_expiry_window.png)
 
 ### Top Marketing Groups at Risk
 
-![Marketing Group Risk](screenshots/top_marketing_group_atrisk.png)
+![Marketing Groups At Risk](screenshots/top_marketing_group_atrisk.png)
 
 ---
 
-## Technology Stack
+## Project Architecture
 
-* Python
-* Pandas
-* Streamlit
-* Plotly
-* OpenPyXL
-* XLRD
-
----
-
-## Data Processing Workflow
-
-1. Load inventory report
-2. Clean and standardize columns
-3. Calculate Days to Expiry
-4. Remove expired and zero-value inventory
-5. Create Expiry Buckets
-6. Calculate Risk KPIs
-7. Visualize inventory risk
-8. Enable interactive inventory exploration
+Inventory Email
+↓
+Gmail API
+↓
+Attachment Download
+↓
+Excel Processing
+↓
+Pandas Transformations
+↓
+Interactive Dashboard
+↓
+Business Insights
 
 ---
 
-## Project Structure
+## Local Installation
 
-```text
-pharma-inventory-intelligence-dashboard/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── screenshots/
-│   ├── kpis.png
-│   ├── inventory_distribution_by_expiry_window.png
-│   ├── inventory_product_explorer.png
-│   └── top_marketing_group_atrisk.png
-└── .gitignore
+### Clone Repository
+
+```bash
+git clone 
+https://github.com/sonalgarg20920/pharma-inventory-intelligence-dashboard.git
+
+cd pharma-inventory-intelligence-dashboard
 ```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## Gmail Integration
+
+The application supports automated inventory refresh using Gmail.
+
+Authentication is implemented using:
+
+* Google OAuth2
+* Gmail API
+* Refresh Tokens
+
+For security purposes:
+
+* OAuth credentials are not stored in the repository
+* Secrets are managed securely
+* Token files are excluded using .gitignore
+
+---
+
+## Business Value
+
+This dashboard helps organizations:
+
+* Monitor inventory health
+* Identify expiring products
+* Reduce inventory losses
+* Improve inventory visibility
+* Automate inventory reporting workflows
 
 ---
 
 ## Future Enhancements
 
-### Version 2
-
-* Gmail API Integration
-* Automatic retrieval of latest inventory report
-* One-click inventory refresh
-
-### Version 3
-
-* Expiry Forecasting
-* Automated Alerts
-* Reorder Recommendations
-* AI-Generated Inventory Insights
+* Inventory trend analysis
+* Historical inventory tracking
+* Email scheduling and alerts
+* Automated expiry notifications
+* Inventory forecasting
 
 ---
 
@@ -142,5 +192,8 @@ pharma-inventory-intelligence-dashboard/
 
 Sonal Garg
 
-Data Analytics | Business Intelligence | Inventory Analytics
+Data Analytics | Business Intelligence | Data Engineering
+
+GitHub:
+https://github.com/sonalgarg20920
 
