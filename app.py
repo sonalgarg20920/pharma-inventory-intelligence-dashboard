@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import gmail_loader
 
 st.set_page_config(
     page_title="Pharma Inventory Dashboard",
@@ -9,22 +10,79 @@ st.set_page_config(
 
 st.title("Pharma Inventory Intelligence Dashboard")
 
-# Load data
-uploaded_file = st.file_uploader(
-    "Upload Inventory File",
-    type=["xls", "xlsx"]
+# ====================================
+# DATA SOURCE SELECTION
+# ====================================
+
+source = st.radio(
+    "Select Data Source",
+    [
+        "Choose...",
+        "Upload File",
+        "Load Latest From Gmail"
+    ]
 )
 
-if uploaded_file is None:
+if source == "Choose...":
+
     st.info(
-        "Please upload an inventory file to continue."
+        "Please select a data source."
     )
+
     st.stop()
 
-df = pd.read_excel(
-    uploaded_file,
-    header=8
-)
+elif source == "Upload File":
+
+    uploaded_file = st.file_uploader(
+        "Upload Inventory File",
+        type=["xls", "xlsx"]
+    )
+
+    if uploaded_file is None:
+
+        st.info(
+            "Please upload an inventory file."
+        )
+
+        st.stop()
+
+    df = pd.read_excel(
+        uploaded_file,
+        header=8
+    )
+
+elif source == "Load Latest From Gmail":
+
+    with st.spinner(
+        "Downloading latest inventory from Gmail..."
+    ):
+
+        email_info = (
+            gmail_loader.download_latest_stock()
+        )
+
+    st.success(
+        "Latest inventory loaded from Gmail"
+    )
+
+    st.info(
+        f"""
+Subject: {email_info['subject']}
+
+Received: {email_info['email_date']}
+
+Attachment: {email_info['attachment_name']}
+"""
+    )
+
+    df = pd.read_excel(
+        email_info["file_path"],
+        header=8
+    )
+
+# ====================================
+# END DATA SOURCE SELECTION
+# ====================================
 # Clean columns
 df.columns = (
     df.columns.astype(str)
