@@ -23,21 +23,23 @@ def running_in_cloud():
         is not None
     )
 
-def get_cloud_credentials():
+def get_credentials():
 
-    creds = Credentials(
-        token=None,
-        refresh_token=st.secrets["gmail"]["refresh_token"],
-        token_uri=st.secrets["gmail"]["token_uri"],
-        client_id=st.secrets["gmail"]["client_id"],
-        client_secret=st.secrets["gmail"]["client_secret"],
-        scopes=SCOPES
-    )
+    try:
 
-    creds.refresh(Request())
+        if (
+            "gmail" in st.secrets
+            and
+            "refresh_token" in st.secrets["gmail"]
+        ):
 
-    return creds
+            return get_cloud_credentials()
 
+    except Exception:
+
+        pass
+
+    return get_local_credentials()
 
 def get_local_credentials():
 
