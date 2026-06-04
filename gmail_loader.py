@@ -25,6 +25,8 @@ def running_in_cloud():
 
 def get_credentials():
 
+    st.write("SECRETS KEYS:", list(st.secrets.keys()))
+
     try:
 
         if (
@@ -33,11 +35,15 @@ def get_credentials():
             "refresh_token" in st.secrets["gmail"]
         ):
 
+            st.write("Using Cloud Credentials")
+
             return get_cloud_credentials()
 
-    except Exception:
+    except Exception as e:
 
-        pass
+        st.write("Secrets Error:", str(e))
+
+    st.write("Using Local Credentials")
 
     return get_local_credentials()
 
