@@ -1,18 +1,29 @@
+import os
+import glob
 import base64
 
 import streamlit as st
 
-from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-
 
 SCOPES = [
     "https://www.googleapis.com/auth/gmail.readonly"
 ]
 
 
-def get_credentials():
+def running_in_cloud():
+
+    return (
+        os.environ.get(
+            "STREAMLIT_SERVER_HEADLESS"
+        )
+        is not None
+    )
+
+def get_cloud_credentials():
 
     creds = Credentials(
         token=None,
@@ -26,6 +37,67 @@ def get_credentials():
     creds.refresh(Request())
 
     return creds
+
+
+def get_local_credentials():
+
+    creds = None
+
+    if os.path.exists("token.json"):
+
+        creds = Credentials.from_authorized_user_file(
+            "token.json",
+            SCOPES
+        )
+
+    if not creds or not creds.valid:
+
+        if (
+            creds
+            and creds.expired
+            and creds.refresh_token
+        ):
+
+            creds.refresh(
+                Request()
+            )
+
+        else:
+
+            client_secret_file = glob.glob(
+                "client_secret*.json"
+            )[0]
+
+            flow = (
+                InstalledAppFlow
+                .from_client_secrets_file(
+                    client_secret_file,
+                    SCOPES
+                )
+            )
+
+            creds = flow.run_local_server(
+                port=8081
+            )
+
+        with open(
+            "token.json",
+            "w"
+        ) as token:
+
+            token.write(
+                creds.to_json()
+            )
+
+    return creds
+
+
+def get_credentials():
+
+    if running_in_cloud():
+        return get_cloud_credentials()
+
+    return get_local_credentials()
 
 
 def download_latest_stock():
@@ -55,6 +127,7 @@ def download_latest_stock():
     )
 
     if not messages:
+
         raise Exception(
             "No Stock Detail email found."
         )
