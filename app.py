@@ -10,11 +10,21 @@ st.set_page_config(
 st.title("Pharma Inventory Intelligence Dashboard")
 
 # Load data
-df = pd.read_excel(
-    "Stock_Detail.xls",
-    header=8
+uploaded_file = st.file_uploader(
+    "Upload Inventory File",
+    type=["xls", "xlsx"]
 )
 
+if uploaded_file is None:
+    st.info(
+        "Please upload an inventory file to continue."
+    )
+    st.stop()
+
+df = pd.read_excel(
+    uploaded_file,
+    header=8
+)
 # Clean columns
 df.columns = (
     df.columns.astype(str)
