@@ -480,7 +480,7 @@ st.dataframe(
             'stock_value',
             'days_to_expiry',
             'expiry_bucket',
-            'expirydate
+            'expirydate'
         ]
     ]
 )
