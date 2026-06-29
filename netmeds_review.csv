@@ -1,0 +1,64 @@
+inventory_product,rank,matched_product,generic_name,therapeutic_class,sub_class,manufacturer
+CTZ 6020,1,JANKEY DM 500 Tablet,Dapagliflozin+Metformin+Sitagliptin,Endocrine & Metabolic System,Diabetes-Ant,Cadila Pharmaceuticals Ltd
+CTZ 6020,2,GLIPTAGREAT SITA DM 500 Tablet,Dapagliflozin+Metformin+Sitagliptin,Endocrine & Metabolic System,Diabetes-Ant,Mankind Pharma Pvt Ltd
+CTZ 6020,3,SITARED MD XR 500 Tablet,Dapagliflozin+Metformin+Sitagliptin,Endocrine & Metabolic System,Diabetes-Ant,Sun Pharma Laboratories Ltd
+CTZ 6020,4,DAPAONE SM 500 Tablet,Dapagliflozin+Metformin+Sitagliptin,Endocrine & Metabolic System,Diabetes-Ant,Msn Laboratories Pvt Ltd
+CTZ 6020,5,DONANCE S PRO 500 Tablet,Dapagliflozin+Metformin+Sitagliptin,Endocrine & Metabolic System,Diabetes-Ant,Alembic Pharmaceuticals Ltd
+NICCEF 10T,1,NIFTOP 100 Tablet,Nitrofurantoin,Anti-Infectives (Systemic),Bacterial Infections-OAB,Zycris Healthcare
+NICCEF 10T,2,NICIP MD 100mg Tablet,Nimesulide,Central Nervous System,Pain relief-Ano,Cipla Ltd (Generics)
+NICCEF 10T,3,MONOCEF O 200MG TABLET,Cefpodoxime,Anti-Infectives (Systemic),Bacterial Infections-Cep,Aristo Pharmaceuticals Pvt Ltd
+NICCEF 10T,4,NOVACEF 500mg Tablet,Cefuroxime,Anti-Infectives (Systemic),Bacterial Infections-Cep,Cipla Ltd (Generics)
+NICCEF 10T,5,MONOCEF O CV 200/125MG TABLET,Cefpodoxime+Clavulanic Acid,Anti-Infectives (Systemic),Bacterial Infections-Cep,Aristo Pharmaceuticals Pvt Ltd
+ROXYLADE,1,Intas Ordelyte Pet Sachet 16.08 g,Sachet,Veterinary,Pet Healthcare,Intas Animal Health
+OD 3020,1,MOSART OD TABLET,Mesalazine,Gastrointestinal & Hepatobiliary System,Ulcerative Colitis/Bowel Inflammatory Disease-GIT,Cadila Pharmaceuticals Ltd
+OD 3020,2,JALRA OD 100mg Tablet,Vildagliptin,Endocrine & Metabolic System,Diabetes-Ant,Usv Private Ltd
+OD 3020,3,BACLOF OD 20MG TABLET,Baclofen,Musculo-Skeletal System,Muscle Cramps/Spasticity-Mus,Intas Pharmaceuticals Ltd
+OD 3020,4,COSALA OD 1.2gm Tablet,Mesalazine,Gastrointestinal & Hepatobiliary System,Ulcerative Colitis/Bowel Inflammatory Disease-GIT,TAS MED INDIA PVT LTD
+OD 3020,5,AMAZEO OD 200MG TABLET,Amisulpride,Central Nervous System,Schizophrenia-Aps,Torrent Pharmaceuticals Ltd
+BEATON DANISH,1,ACLIZAC AS 75 Tablet,Aspirin+Clopidogrel,Cardiovascular & Hematopoietic System,High Cholesterol-Dys,Ajanta Pharma Ltd (Generics)
+BEATON DANISH,2,DULCOFLEX TABLET,Bisacodyl,Gastrointestinal & Hepatobiliary System,Constipation-Lax,Sanofi India Limited
+BEATON DANISH,3,FUCIBET CREAM,Betamethasone+Fusidic Acid,Dermatologicals,Skin Infections-Toc,Sun Pharmaceutical Industries Ltd
+BEATON DANISH,4,WEGOVY 0.5mg Injection,Semaglutide,Endocrine & Metabolic System,Diabetes-Ant,Novo Nordisk India Pvt Ltd
+BEATON DANISH,5,LONG DRIVE Spray,Lignocaine,Anaesthetics - Local & General,Anaesthesia - Local-Ana,Leeford Healthcare Ltd (Generics)
+SPASMFREE,0,,,,,
+ZIMTROY O,1,TRIXON O 200mg Tablet,Cefixime,Anti-Infectives (Systemic),Bacterial Infections-Cep,Lincoln Pharmaceuticals Ltd
+ZIMTROY O,2,TRIXON O Drops,Cefixime,Anti-Infectives (Systemic),Bacterial Infections-Cep,Lincoln Pharmaceuticals Ltd
+ZIMTROY O,3,ZIL O TABLET,Ofloxacin+Ornidazole,Anti-Infectives (Systemic),Bacterial Infections-Qui,Abbott Healthcare Pvt Ltd
+ZIMTROY O,4,ZIFI O TABLET,Cefixime+Ofloxacin,Anti-Infectives (Systemic),Bacterial Infections-Cep,FDC Limited
+ZIMTROY O,5,RITECEF O 200MG TABLET,Cefixime,Anti-Infectives (Systemic),Bacterial Infections-Cep,Micro Labs Ltd
+MECODILA D3,1,MECOBLEND D3 Tablet,Alpha Lipoic Acid+Cholecalciferol+Folic Acid+Methylcobalamin+Pyridoxine,Vitamins & Minerals,Supplements-Vam,Akesiss Pharma Pvt Ltd
+MECODILA D3,2,ME D3 TABLET,Alpha Lipoic Acid+Cholecalciferol+Folic Acid+Methylcobalamin+Pyridoxine,Vitamins & Minerals,Supplements-Vam,Systopic Laboratories Pvt Ltd
+MECODILA D3,3,ME D3 Tablet,Alpha Lipoic Acid+Cholecalciferol+Folic Acid+Methylcobalamin+Pyridoxine,Vitamins & Minerals,Supplements-Vam,Systopic Laboratories Pvt Ltd
+MECODILA D3,4,NURODAY D3 Tablet,Alpha Lipoic Acid+Cholecalciferol+Folic Acid+Methylcobalamin+Pyridoxine,Vitamins & Minerals,Supplements-Vam,Dr. Reddy's Laboratories Ltd
+MECODILA D3,5,MEGO D3 Tablet,Alpha Lipoic Acid+Cholecalciferol+Folic Acid+Methylcobalamin+Pyridoxine,Vitamins & Minerals,Supplements-Vam,Blue Cross Laboratories Ltd
+ALKACETRAL,1,ALKACIP SYRUP,Disodium Hydrogen Citrate,Genito-Urinary System,Kidney Disease/Stones-Oth,Cipla Ltd (Generics)
+ALKACETRAL,2,ALLCITRA Syrup,Disodium Hydrogen Citrate,Genito-Urinary System,Urinary Retention-Oth,Lincoln Pharmaceuticals Ltd
+IBUWAY,0,,,,,
+MEFIWAY,0,,,,,
+BETANIK,0,,,,,
+FEROFER 6T,1,FEROVAC 200 Tablet,Faropenem,Anti-Infectives (Systemic),Bacterial Infections-OBL,PREVEGO HEALTHCARE & RESEARCH PRIVATE LIMITED (Generics)
+FEROFER 6T,2,VENROXIM CV Tablet,Cefuroxime+Clavulanic Acid,Anti-Infectives (Systemic),Bacterial Infections-Cep,Leeford Healthcare Ltd (Generics)
+FEROFER 6T,3,BIOREN RAPID MOUTH DISSOLVING Orodispersible Tablet,Diclofenac,Central Nervous System,Pain relief-Nsa,Rusan Health Care Pvt Ltd
+FEROFER 6T,4,FAROSPECT Tablet,Faropenem,Anti-Infectives (Systemic),Bacterial Infections-OBL,Leeford Healthcare Ltd (Generics)
+FEROFER 6T,5,FAROSPECT ER 300 Tablet,Faropenem,Anti-Infectives (Systemic),Bacterial Infections-OBL,Leeford Healthcare Ltd (Generics)
+OXYNUT 40MG,1,CUTENOX 40MG PREFILLED SYRINGE,Enoxaparin,Cardiovascular & Hematopoietic System,Blood Clot-Ant,Gland Pharma Limited
+OXYNUT 40MG,2,ZURIG 40mg Tablet,Febuxostat,Musculo-Skeletal System,Gout,Zydus Healthcare Ltd
+OXYNUT 40MG,3,FEBUSTAT 40mg Tablet,Febuxostat,Musculo-Skeletal System,Gout,Abbott Healthcare Pvt Ltd
+OXYNUT 40MG,4,ENCRPC 40mg Capsule,Enzalutamide,Oncology,Cancer Oncology-Hor,Intas Pharmaceuticals Ltd
+OXYNUT 40MG,5,NEXPRO 40MG TABLET,Esomeprazole,Gastrointestinal & Hepatobiliary System,Ulcer/Reflux/Flatulence-Aaa,Torrent Pharmaceuticals Ltd
+VONOVIA 20MG,1,VILANO 20MG TABLET,Vilazodone,Central Nervous System,Depression-Ant,Sun Pharmaceutical Industries Ltd
+VONOVIA 20MG,2,VONASEC 20mg Tablet,Vonoprazan,Others,General-P,Aristo Pharmaceuticals Pvt Ltd
+VONOVIA 20MG,3,VONOTOR 20 Tablet,Vonoprazan,Others,General-P,Torrent Pharmaceuticals Ltd
+VONOVIA 20MG,4,VONOMAC 20 Tablet,Vonoprazan,Others,General-P,Macleods Pharmaceuticals Pvt Ltd
+VONOVIA 20MG,5,VANTAXA 20 Tablet,Vortioxetine,Central Nervous System,Depression-Ant,Intas Pharmaceuticals Ltd
+DOXIRICH LB 10C,1,DOXYBOND LB Capsule,Doxycycline+Lactobacillus,Anti-Infectives (Systemic),Bacterial Infections-Tet,Brinton Pharmaceuticals Ltd
+DOXIRICH LB 10C,2,BIODOXI LB Capsule,Doxycycline+Lactobacillus,Anti-Infectives (Systemic),Bacterial Infections-Tet,Zydus Healthcare Ltd
+DOXIRICH LB 10C,3,MEIBODOXY LB Capsule,Doxycycline+Lactic Acid Bacillus,Anti-Infectives (Systemic),Bacterial Infections-Tet,Doctor Wonder (P) Limited
+DOXIRICH LB 10C,4,LENTECLIN LB Capsule,Doxycycline+Lactobacillus,Anti-Infectives (Systemic),Bacterial Infections-Tet,Aristo Pharmaceuticals Pvt Ltd
+DOXIRICH LB 10C,5,REVIDOX LB CAPSULE,Doxycycline+Lactobacillus,Anti-Infectives (Systemic),Bacterial Infections-Tet,Macleods Pharmaceuticals Pvt Ltd
+FERRORANGE,0,,,,,
+CETRIZOLE,1,CETCIP 10MG TABLET,Cetirizine,Allergy & Immune System,Allergies-Ant,Cipla Ltd (Generics)
+CETRIZOLE,2,CETIRIZ 10MG TABLET,Cetirizine,Allergy & Immune System,Allergies-Ant,Alkem Laboratories Ltd
+CETRIZOLE,3,CETZINE 10mg Tablet,Cetirizine,Allergy & Immune System,Allergies-Ant,Dr. Reddy's Laboratories Ltd
+CETRIZOLE,4,LEVOCETRIZEN 5mg Tablet,Levocetirizine,Allergy & Immune System,Allergies-Ant,Leeford Healthcare Ltd (Generics)
+CETRIZOLE,5,CETZINE SYRUP,Cetirizine,Respiratory System,Cough And Cold-Cou,Dr. Reddy's Laboratories Ltd

@@ -2,8 +2,6 @@ import os
 import glob
 import base64
 
-import streamlit as st
-
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -14,28 +12,11 @@ SCOPES = [
 ]
 
 
-def get_cloud_credentials():
-
-    creds = Credentials(
-        token=None,
-        refresh_token=st.secrets["gmail"]["refresh_token"],
-        token_uri=st.secrets["gmail"]["token_uri"],
-        client_id=st.secrets["gmail"]["client_id"],
-        client_secret=st.secrets["gmail"]["client_secret"],
-        scopes=SCOPES
-    )
-
-    creds.refresh(Request())
-
-    return creds
-
-
-def get_local_credentials():
+def get_credentials():
 
     creds = None
 
     if os.path.exists("token.json"):
-
         creds = Credentials.from_authorized_user_file(
             "token.json",
             SCOPES
@@ -55,20 +36,14 @@ def get_local_credentials():
 
         else:
 
-            client_secret_files = glob.glob(
+            client_secret_file = glob.glob(
                 "client_secret*.json"
-            )
-
-            if not client_secret_files:
-
-                raise Exception(
-                    "client_secret JSON file not found."
-                )
+            )[0]
 
             flow = (
                 InstalledAppFlow
                 .from_client_secrets_file(
-                    client_secret_files[0],
+                    client_secret_file,
                     SCOPES
                 )
             )
@@ -87,24 +62,6 @@ def get_local_credentials():
             )
 
     return creds
-
-
-def get_credentials():
-
-    try:
-        if (
-            "gmail" in st.secrets
-            and st.secrets["gmail"]["refresh_token"]
-        ):
-            st.write("Using Streamlit Secrets...")
-            return get_cloud_credentials()
-
-    except Exception as e:
-        st.error(f"Cloud credentials failed: {type(e).__name__}: {e}")
-        raise
-
-    st.write("Falling back to local credentials...")
-    return get_local_credentials()
 
 
 def download_latest_stock():

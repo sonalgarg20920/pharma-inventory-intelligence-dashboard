@@ -1,0 +1,241 @@
+product_name,matched_name,product_type,url,composition,therapeutic_class,score
+AZICIP 500MG,Azicip 500 Tablet,DRUG,https://www.1mg.com/drugs/azicip-500-tablet-263487,Azithromycin,ANTI INFECTIVES,1
+PANTOSEC 40MG,Pantosec Tablet,DRUG,https://www.1mg.com/drugs/pantosec-tablet-67723,Pantoprazole,GASTRO INTESTINAL,1
+CHESTON COLD WHITE,Cheston Cold and Flu Tablet,DRUG,https://www.1mg.com/drugs/cheston-cold-and-flu-tablet-1093265,Caffeine+Diphenhydramine+Paracetamol+Phenylephrine,RESPIRATORY,2
+CIPCAL 500MG,"Cipcal 500 Tablet from Cipla | Source of Calcium & Vitamin D | For Bone, Joint and Muscle Care",OTC,https://www.1mg.com/otc/cipcal-500-tablet-from-cipla-source-of-calcium-vitamin-d-for-bone-joint-and-muscle-care-otc159603,,OTC,1
+FENAK PLUS RANBAXY,Fenak Plus Tablet,DRUG,https://www.1mg.com/drugs/fenak-plus-tablet-147941,Diclofenac+Paracetamol,PAIN ANALGESICS,2
+NO SCARS CREAM 20GM,NO Scars Day Cream SPF 30 PA++,OTC,https://www.1mg.com/otc/no-scars-day-cream-spf-30-pa-otc1042282,,OTC,3
+ALKEMOX 500CAP,Alkemox 250mg Tablet,DRUG,https://www.1mg.com/drugs/alkemox-250mg-tablet-953349,Amoxycillin,ANTI INFECTIVES,1
+MELAMET CREAM 15GM,Melamet Cream,DRUG,https://www.1mg.com/drugs/melamet-cream-542952,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+AMOXYCLAV 375MG,Amoxyclav 875mg/125mg Tablet,DRUG,https://www.1mg.com/drugs/amoxyclav-875mg-125mg-tablet-424438,Amoxycillin + Clavulanic Acid,ANTI INFECTIVES,1
+MYFAIR OINT 20GM,Myfair Cream,DRUG,https://www.1mg.com/drugs/myfair-cream-623699,Hydroquinone+Mometasone+Tretinoin,DERMA,1
+CIFTOX AZ LB NEW PACK,Cifofin AZ LB 200mg/250mg Tablet,DRUG,https://www.1mg.com/drugs/cifofin-az-lb-200mg-250mg-tablet-888082,Cefixime+Azithromycin+Lactobacillus,ANTI INFECTIVES,2
+SKINSHINE CREAM 15GM,Cadila Skinshine Cream,DRUG,https://www.1mg.com/drugs/cadila-skinshine-cream-159981,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+CLINSOL GEL 15GM,Clinsol Gel,DRUG,https://www.1mg.com/drugs/clinsol-gel-174461,Clindamycin+Nicotinamide,DERMA,2
+CTZ 6020,,,,,,0
+ITRATEK 200MG,Itrotus 200mg Capsule,DRUG,https://www.1mg.com/drugs/itrotus-200mg-capsule-866580,Itraconazole,ANTI INFECTIVES,1
+CIPRODAC 500MG,Ciprodac 500 Tablet,DRUG,https://www.1mg.com/drugs/ciprodac-500-tablet-56644,Ciprofloxacin,ANTI INFECTIVES,1
+CIPCAL D3 SACHET 1GM,Calgrip-D3 Sachet (1gm Each),OTC,https://www.1mg.com/otc/calgrip-d3-sachet-1gm-each-otc1128160,,OTC,3
+SKINSHINE CREAM 30GM,Skinshine Cream,DRUG,https://www.1mg.com/drugs/skinshine-cream-347488,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+OPTINEURON FORTE 30T,Optineuron Forte Injection,OTC,https://www.1mg.com/otc/optineuron-forte-injection-otc245415,,OTC,2
+COBATE GM OINT 10GM,Clobenate-Gm Cream 10gm For Skin Infections,DRUG,https://www.1mg.com/drugs/clobenate-gm-cream-10gm-for-skin-infections-182024,Clobetasol+Gentamicin+Miconazole,DERMA,2
+FASTAC NEWFAST ACTION PAIN RELIEF,"Volini Spray for Sprain, Muscle and Joint Pain Relief | Quick Action | Long-Lasting Relief | Bone, Joint & Muscle Care",DRUG,https://www.1mg.com/drugs/volini-spray-for-sprain-muscle-and-joint-pain-relief-quick-action-long-lasting-relief-bone-joint-muscle-care-91052,Diclofenac+Linseed Oil+Menthol+Methyl Salicylate,DERMA,3
+MUPICIP CREAM 15GM,Ketoford 2% Cream 15gm for Skin Infections,DRUG,https://www.1mg.com/drugs/ketoford-2-cream-15gm-for-skin-infections-541903,Ketoconazole,DERMA,2
+GLOWLOOK CREAM 15GM,Glowlook Cream,DRUG,https://www.1mg.com/drugs/glowlook-cream-1083961,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+DOXY L ALUMINIUM,Doxy 1 UP 250mg Tablet,DRUG,https://www.1mg.com/drugs/doxy-1-up-250mg-tablet-650868,Azithromycin,ANTI INFECTIVES,2
+OMNIGEL 10GM OINT,Omnigel Spray,DRUG,https://www.1mg.com/drugs/omnigel-spray-845935,Diclofenac diethylamine+Methyl Salicylate+Menthol+Alcohol,PAIN ANALGESICS,1
+CASTOR NF 15GM,Castor NF Plus Cream,DRUG,https://www.1mg.com/drugs/castor-nf-plus-cream-1114905,Fluocinolone acetonide+Ciprofloxacin+Clotrimazole,DERMA,2
+COBATE GM 30GM OINT,Clobavate gm Ointment,DRUG,https://www.1mg.com/drugs/clobavate-gm-ointment-333695,Clobetasol+Gentamicin+Miconazole,DERMA,2
+C ONE SB 15GM INJ,Crezone-SB 1.5gm Injection,DRUG,https://www.1mg.com/drugs/crezone-sb-1.5gm-injection-725623,Ceftriaxone+Sulbactam,ANTI INFECTIVES,4
+NICCEF 10T,Nekcef T 1000mg/125mg Injection,DRUG,https://www.1mg.com/drugs/nekcef-t-1000mg-125mg-injection-555345,Ceftriaxone+Tazobactum,ANTI INFECTIVES,0
+ULTRABRITE CREAM 15GM,Ultrabrite Cream,DRUG,https://www.1mg.com/drugs/ultrabrite-cream-785308,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+LUPAMIK INJ 500MG,Lupamik 500mg Injection,DRUG,https://www.1mg.com/drugs/lupamik-500mg-injection-285112,Amikacin,ANTI INFECTIVES,3
+ULTRABRITE CREAM 25GM,Ultrabrite Cream,DRUG,https://www.1mg.com/drugs/ultrabrite-cream-333584,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+KAYLITE CREAM 15GM,Kaylite Natural Cream (30gm Each),OTC,https://www.1mg.com/otc/kaylite-natural-cream-30gm-each-otc1131940,,OTC,2
+ALMOX 250DT,Almox DT 125 Tablet,DRUG,https://www.1mg.com/drugs/almox-dt-125-tablet-541977,Amoxycillin,ANTI INFECTIVES,1
+ORASORE ULCER GEL 12GM,Combo Pack of Orasore Mouth Ulcer Relief Gel (12gm) & Mouth Ulcer Tablet with Pen Free (10),OTC,https://www.1mg.com/otc/combo-pack-of-orasore-mouth-ulcer-relief-gel-12gm-mouth-ulcer-tablet-with-pen-free-10-otc1138172,,OTC,4
+SCAR LITE CREAM 15GM,Brite Lite Cream with Kojic Acid & Glycolic Acid,OTC,https://www.1mg.com/otc/brite-lite-cream-with-kojic-acid-glycolic-acid-otc136838,,OTC,2
+RANPREGA CARD,Hapro Pro Card Drop,OTC,https://www.1mg.com/otc/hapro-pro-card-drop-otc538759,,OTC,1
+ESOMIFOR DSR,Esomefol-DSR Capsule,DRUG,https://www.1mg.com/drugs/esomefol-dsr-capsule-339889,Domperidone+Esomeprazole,GASTRO INTESTINAL,1
+DEMISONE 30X10,Demisone Tablet,DRUG,https://www.1mg.com/drugs/demisone-tablet-12843,Dexamethasone,HORMONES,1
+ORS 21GM ORANGE CIPLA,ADPL Agrital ORS Sachet (21gm Each) Tangy Orange,OTC,https://www.1mg.com/otc/adpl-agrital-ors-sachet-21gm-each-tangy-orange-otc686175,,OTC,3
+ROXYLADE,Roxilide 50mg Tablet,DRUG,https://www.1mg.com/drugs/roxilide-50mg-tablet-502856,Roxithromycin,ANTI INFECTIVES,0
+CIPLADINE CREAM 10GM,Cipladine Ointment,DRUG,https://www.1mg.com/drugs/cipladine-ointment-137489,Povidone Iodine,DERMA,1
+ALKOF COLD N FLU,Alkof Cold And Flu 500mg/32mg/10mg Tablet,DRUG,https://www.1mg.com/drugs/alkof-cold-and-flu-500mg-32mg-10mg-tablet-936269,Paracetamol+Caffeine+Phenylephrine,RESPIRATORY,4
+OD 3020,,,,,,0
+ALKEMOX - CV 625MG,Zocef-CV 250 Tablet,DRUG,https://www.1mg.com/drugs/zocef-cv-250-tablet-121485,Cefuroxime+Clavulanic Acid,ANTI INFECTIVES,2
+MOKCAN 250DT,Mokcan 250mg Tablet DT,DRUG,https://www.1mg.com/drugs/mokcan-250mg-tablet-dt-255209,Amoxycillin,ANTI INFECTIVES,1
+BEATON DANISH,Parokay 650 Tablet,DRUG,https://www.1mg.com/drugs/parokay-650-tablet-1019590,Paracetamol,PAIN ANALGESICS,0
+ORAFAST CREAM 15GM,Ketoford 2% Cream 15gm for Skin Infections,DRUG,https://www.1mg.com/drugs/ketoford-2-cream-15gm-for-skin-infections-541903,Ketoconazole,DERMA,2
+AKNIRED 3D CREAM 20GM,"Glyco 6 Glycolic Acid Cream | For Dry Skin, Acne & Hyperpigmentation",OTC,https://www.1mg.com/otc/glyco-6-glycolic-acid-cream-for-dry-skin-acne-hyperpigmentation-otc337777,,OTC,1
+SAFEPODOX 200MG ALUALU,Safepodox 200mg Tablet DT,DRUG,https://www.1mg.com/drugs/safepodox-200mg-tablet-dt-310539,Cefpodoxime Proxetil,ANTI INFECTIVES,2
+DP GESIC OVAL,DP Gesic Injection,DRUG,https://www.1mg.com/drugs/dp-gesic-injection-1141213,Diclofenac,PAIN ANALGESICS,2
+MILLENNIUM STUD 10000 SPRAY 20GM,Millennium Stud 5000 Spray,OTC,https://www.1mg.com/otc/millennium-stud-5000-spray-otc500265,,OTC,3
+OMEE 20MG,Omee RD 10mg/20mg Tablet,DRUG,https://www.1mg.com/drugs/omee-rd-10mg-20mg-tablet-952003,Domperidone+Omeprazole,GASTRO INTESTINAL,2
+SPASMFREE,Spasfree 80mg/100mg Tablet,DRUG,https://www.1mg.com/drugs/spasfree-80mg-100mg-tablet-337868,Drotaverine+Aceclofenac,GASTRO INTESTINAL,0
+MAHANAC MR,Mahanac Tablet MR,DRUG,https://www.1mg.com/drugs/mahanac-tablet-mr-273352,Aceclofenac,PAIN ANALGESICS,2
+OMNIGEL OINT 20GM,"Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",OTC,https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479,,OTC,2
+ROSUBEST GOLD 10MG 10C,Rosulip Gold 10 Capsule,DRUG,https://www.1mg.com/drugs/rosulip-gold-10-capsule-492381,Aspirin+Rosuvastatin+Clopidogrel,CARDIAC,1
+OMNIGEL 30GM OINT,Dr Ortho Combo Pack of Pain Relief Oil 120ml & Ointment 30gm,OTC,https://www.1mg.com/otc/dr-ortho-combo-pack-of-pain-relief-oil-120ml-ointment-30gm-otc472720,,OTC,2
+LIPVAS 20MG,LipVAS 20 Tablet,DRUG,https://www.1mg.com/drugs/lipvas-20-tablet-74063,Atorvastatin,CARDIAC,1
+ORS ORANGE CIPLA,Prolyte ORS for Restoring Body Fluids & Electrolytes | Flavour Powder Refreshing Orange,OTC,https://www.1mg.com/otc/prolyte-ors-for-restoring-body-fluids-electrolytes-flavour-powder-refreshing-orange-otc324897,,OTC,2
+CEFX O 200MG MEDLEY,Cefx O Azy 200mg/250mg Tablet,DRUG,https://www.1mg.com/drugs/cefx-o-azy-200mg-250mg-tablet-564865,Cefixime+Azithromycin,ANTI INFECTIVES,3
+ORS ORANGE RANBAXY,Walyte ORS Orange Flavour,OTC,https://www.1mg.com/otc/walyte-ors-orange-flavour-otc1096897,,OTC,2
+VILDADER MET 500MG 15T,Vildader Met 500mg/50mg Tablet,DRUG,https://www.1mg.com/drugs/vildader-met-500mg-50mg-tablet-595132,Metformin + Vildagliptin,ANTI DIABETIC,3
+DICLONAC PLUS WHITE,HSL White Gel,OTC,https://www.1mg.com/otc/hsl-white-gel-otc980750,,OTC,1
+ELOSONE HT CREAM 15GM,ELOsone-HT Cream,DRUG,https://www.1mg.com/drugs/elosone-ht-cream-372582,Hydroquinone+Mometasone+Tretinoin,DERMA,3
+ZIMTROY O,,,,,,0
+ORS APPLE CIPLA,Prolyte ORS Ready To Drink for Body Fluid & Electrolyte Replenishment | For Stomach Care & Dehydration | Flavour Apple,OTC,https://www.1mg.com/otc/prolyte-ors-ready-to-drink-for-body-fluid-electrolyte-replenishment-for-stomach-care-dehydration-flavour-apple-otc573187,,OTC,2
+RANISH 150MG,Ranic Plus 10mg/150mg Tablet,DRUG,https://www.1mg.com/drugs/ranic-plus-10mg-150mg-tablet-446619,Domperidone+Ranitidine,GASTRO INTESTINAL,1
+LUPICEFF O 200DT,Lupicef O 100mg Tablet DT,DRUG,https://www.1mg.com/drugs/lupicef-o-100mg-tablet-dt-1084143,Cefixime,ANTI INFECTIVES,1
+C ONE 1GM INJ,Camxone 1gm Injection,DRUG,https://www.1mg.com/drugs/camxone-1gm-injection-605630,Ceftriaxone,ANTI INFECTIVES,4
+PREGAHEM NTM,Pregalen-NTM Tablet,DRUG,https://www.1mg.com/drugs/pregalen-ntm-tablet-921091,Methylcobalamin+Nortriptyline+Pregabalin,NEURO CNS,1
+ESOTREAT DSR,Hizium DSR Capsule,DRUG,https://www.1mg.com/drugs/hizium-dsr-capsule-1032716,Domperidone+Esomeprazole,GASTRO INTESTINAL,1
+CIPMOX 500MG ORANGE,cipMOX 500 Capsule Orange,DRUG,https://www.1mg.com/drugs/cipmox-500-capsule-orange-445236,Amoxycillin,ANTI INFECTIVES,2
+AMLIP 10MG,AMlip 10 Tablet,DRUG,https://www.1mg.com/drugs/amlip-10-tablet-44013,Amlodipine,CARDIAC,1
+VIBEL MULTIVITAMIN,Zeniqua Daily Vibes Modern Universal Multivitamin Tablet,OTC,https://www.1mg.com/otc/zeniqua-daily-vibes-modern-universal-multivitamin-tablet-otc1149178,,OTC,1
+VIGROMEN BLUE 364,Vigromen Malt,OTC,https://www.1mg.com/otc/vigromen-malt-otc852443,,OTC,1
+DICLOLAB PLUS WHITE,Diclolab Plus 50 mg/500 mg Tablet,DRUG,https://www.1mg.com/drugs/diclolab-plus-50-mg-500-mg-tablet-238715,Diclofenac+Paracetamol,PAIN ANALGESICS,2
+FEROZ 300MG,Feroz 200mg Tablet,DRUG,https://www.1mg.com/drugs/feroz-200mg-tablet-1055691,Faropenem,ANTI INFECTIVES,1
+COLDTREAT PRO,Pro DT Injection,DRUG,https://www.1mg.com/drugs/pro-dt-injection-293475,Progesterone (Natural Micronized),GYNAECOLOGICAL,1
+CIPLADINE CREAM 20GM,Cipladine Ointment,DRUG,https://www.1mg.com/drugs/cipladine-ointment-270713,Povidone Iodine,DERMA,1
+CIPLADINE POWDER 10GM,Cipladine Povidone Iodine 5% Microbicidal Powder for Skin Infections (10 gm),DRUG,https://www.1mg.com/drugs/cipladine-povidone-iodine-5-microbicidal-powder-for-skin-infections-10-gm-201043,Povidone Iodine,DERMA,2
+KT5 DERM 15GM,KT 5 Derm Cream,DRUG,https://www.1mg.com/drugs/kt-5-derm-cream-549413,Clobetasol+Gentamicin+Clioquinol (Iodochlorhydroxyquin)+Ketoconazole+Tolnaftate,DERMA,1
+RICH DAY CAL K27,Calcinith K27 Softgel Capsule,OTC,https://www.1mg.com/otc/calcinith-k27-softgel-capsule-otc828919,,OTC,2
+NEULAB ACTIVE GOLD,Active Gold Capsule,OTC,https://www.1mg.com/otc/active-gold-capsule-otc890924,,OTC,2
+VEECEE Z,Veeket-Z Soap,DRUG,https://www.1mg.com/drugs/veeket-z-soap-630146,Ketoconazole+Zinc pyrithione,DERMA,1
+MELACARE GLOW FACE WASH,"Recharm Skin Rejuvenating Glow Treatment Face Wash | With Glycolic Acid, Salicylic Acid & Pentylene Glycol",OTC,https://www.1mg.com/otc/recharm-skin-rejuvenating-glow-treatment-face-wash-with-glycolic-acid-salicylic-acid-pentylene-glycol-otc898224,,OTC,3
+MOXI D DROP,Moxi D Eye Drop,DRUG,https://www.1mg.com/drugs/moxi-d-eye-drop-625425,Moxifloxacin+Dexamethasone,OPHTHAL,3
+DICLOSPIN MR,Diclospan MR 250mg/50mg/325mg Tablet,DRUG,https://www.1mg.com/drugs/diclospan-mr-250mg-50mg-325mg-tablet-565892,Chlorzoxazone+Diclofenac+Paracetamol,PAIN ANALGESICS,1
+NICOTEX 4MGMINT PLUS 9S,Nicotex Nicotine Gum Mint Plus Sugar Free,DRUG,https://www.1mg.com/drugs/nicotex-nicotine-gum-mint-plus-sugar-free-1071635,,,2
+NICOGYL TZ,Nicomel Tz 2mg Disintegrating Strip,DRUG,https://www.1mg.com/drugs/nicomel-tz-2mg-disintegrating-strip-404051,Nicotine,NEURO CNS,1
+DENTOSYS TOOTHPASTE 100GM,Dr. Morepen Dentosys Herbal Toothpaste with Toothbrush Free,OTC,https://www.1mg.com/otc/dr.-morepen-dentosys-herbal-toothpaste-with-toothbrush-free-otc818417,,OTC,2
+CEFOGEN CV,Cefijon-CV Tablet,DRUG,https://www.1mg.com/drugs/cefijon-cv-tablet-668075,Cefixime+Clavulanic Acid,ANTI INFECTIVES,1
+TILLASMI OIL,Bestogesic Oil,OTC,https://www.1mg.com/otc/bestogesic-oil-otc649443,,OTC,1
+MECODILA D3,,,,,,0
+VITAMIN E LUPIN,Aptivate Pineapple,OTC,https://www.1mg.com/otc/aptivate-pineapple-otc63369,,OTC,1
+ALKACETRAL,Alkacitral Liquid,DRUG,https://www.1mg.com/drugs/alkacitral-liquid-194679,Disodium Hydrogen Citrate,UROLOGY,0
+FESTIVE EYE DROP,Festive-Dee Optic Eye/Ear Drops,DRUG,https://www.1mg.com/drugs/festive-dee-optic-eye-ear-drops-575908,Ofloxacin+Dexamethasone+Hydroxypropylmethylcellulose,OPHTHAL OTOLOGICALS,3
+TRIMZOLE DS,Trimazole DS 800mg/160mg Tablet,DRUG,https://www.1mg.com/drugs/trimazole-ds-800mg-160mg-tablet-937190,Sulfamethoxazole+Trimethoprim,ANTI INFECTIVES,1
+FASTAC ADVANCE PAIN RELIFE,Saridon Advance Tablet for 5 in 1 Pain Relief,OTC,https://www.1mg.com/otc/saridon-advance-tablet-for-5-in-1-pain-relief-otc638057,,OTC,2
+ROSUBEST GOLD 20MG 10C,Rozucor Gold 20 Capsule,DRUG,https://www.1mg.com/drugs/rozucor-gold-20-capsule-393393,Aspirin+Rosuvastatin+Clopidogrel,CARDIAC,1
+ELOSONE HT CREAM 25GM,ELOsone-HT Cream,DRUG,https://www.1mg.com/drugs/elosone-ht-cream-372582,Hydroquinone+Mometasone+Tretinoin,DERMA,3
+VIGROMEN BLUE,Vigromen Malt,OTC,https://www.1mg.com/otc/vigromen-malt-otc852443,,OTC,1
+OFRAMAX FORTE INJ 15GM,RejuNuron Forte Injection,DRUG,https://www.1mg.com/drugs/rejunuron-forte-injection-148656,Methylcobalamin,VITAMINS MINERALS NUTRIENTS,2
+DERMIFORD CREAM 15GM,Dermiford-K5 Cream,DRUG,https://www.1mg.com/drugs/dermiford-k5-cream-847959,Clobetasol+Gentamicin+Clioquinol (Iodochlorhydroxyquin)+Ketoconazole,DERMA,2
+PROTITAS CHOC POWDER 220GM,Protinex High Quality Protein | Nutritional Drink for Immunity & Strength Zero Added Sugar Rich Chocolate Powder,OTC,https://www.1mg.com/otc/protinex-high-quality-protein-nutritional-drink-for-immunity-strength-zero-added-sugar-rich-chocolate-powder-otc900812,,OTC,2
+PLAYGARD MORE PLAY COMBO 10S,Playgard More Play + Super Dotted Condom Butterscotch,OTC,https://www.1mg.com/otc/playgard-more-play-super-dotted-condom-butterscotch-otc498324,,OTC,3
+VIGORE SPRAY 15GM,Vigore Lido Spray,DRUG,https://www.1mg.com/drugs/vigore-lido-spray-333995,Lidocaine,PAIN ANALGESICS,2
+VEMOX 250MG,Vemoxin D 250mg/250mg Capsule,DRUG,https://www.1mg.com/drugs/vemoxin-d-250mg-250mg-capsule-511815,Amoxycillin+Dicloxacillin,ANTI INFECTIVES,2
+ITRATEK T,Itradac T 100mg/250mg Tablet,DRUG,https://www.1mg.com/drugs/itradac-t-100mg-250mg-tablet-486258,Itraconazole+Terbinafine,ANTI INFECTIVES,1
+FASTRIL SP 10T,Fastril Tablet,DRUG,https://www.1mg.com/drugs/fastril-tablet-268743,Lisinopril,CARDIAC,1
+FESTIVE D EE DROP,Jusdee 400IU Drop,OTC,https://www.1mg.com/otc/jusdee-400iu-drop-otc329691,,OTC,3
+AMLIP 25MG,Amlip AT 5mg/25mg Tablet,DRUG,https://www.1mg.com/drugs/amlip-at-5mg-25mg-tablet-1042854,Amlodipine+Atenolol,CARDIAC,2
+RABENESS DSR,Rabemac-DSR Capsule,DRUG,https://www.1mg.com/drugs/rabemac-dsr-capsule-655311,Domperidone+Rabeprazole,GASTRO INTESTINAL,1
+LULITEC 10GM CIPLA,Lulitec Cream,DRUG,https://www.1mg.com/drugs/lulitec-cream-657644,Luliconazole,DERMA,1
+CELCAL XT BLISTER,Compeed Blister Plaster Mix Pack,OTC,https://www.1mg.com/otc/compeed-blister-plaster-mix-pack-otc610093,,OTC,1
+KETOCIP CT SOAP 75GM,Ketocip CT Soap,DRUG,https://www.1mg.com/drugs/ketocip-ct-soap-739558,Cetrimide+Ketoconazole,DERMA,3
+MULTIPREX SOFT GEL,Catrol-Plus Soft Gels,OTC,https://www.1mg.com/otc/catrol-plus-soft-gels-otc129273,,OTC,2
+GLYCERIN BHANDARI,Glycerine Topical Liquid,OTC,https://www.1mg.com/otc/glycerine-topical-liquid-otc330488,,OTC,1
+LUPISULIDE P AMBER,Lupisulide Syrup,DRUG,https://www.1mg.com/drugs/lupisulide-syrup-305976,Nimesulide,PAIN ANALGESICS,2
+TROFLOCIN 200MG ALU-ALUTAB,Troflocin 200mg Tablet,DRUG,https://www.1mg.com/drugs/troflocin-200mg-tablet-769885,Ofloxacin,ANTI INFECTIVES,2
+PANTOLUP DSR 10C,Pantolup DSR Capsule,DRUG,https://www.1mg.com/drugs/pantolup-dsr-capsule-849670,Domperidone+Pantoprazole,GASTRO INTESTINAL,2
+NICOSIP 2MG,Nicosip 21mg Patch,DRUG,https://www.1mg.com/drugs/nicosip-21mg-patch-1052484,Nicotine,NEURO CNS,1
+LULITEC 20GM CIPLA,Lulitec Cream,DRUG,https://www.1mg.com/drugs/lulitec-cream-557778,Luliconazole,DERMA,1
+RONEMOX 250DT,Ronemox 125mg Tablet DT,DRUG,https://www.1mg.com/drugs/ronemox-125mg-tablet-dt-190678,Amoxycillin,ANTI INFECTIVES,1
+OMETEK D,Omee-D Capsule,DRUG,https://www.1mg.com/drugs/omee-d-capsule-637092,Domperidone+Omeprazole,GASTRO INTESTINAL,1
+DERMA RX NF CREAM 20GM,"Demelan Cream with Glycolic Acid, Arbutin & Kojic Acid | Derma Care | For Pigmentation & Marks | Promotes Even Skin Tone",OTC,https://www.1mg.com/otc/demelan-cream-with-glycolic-acid-arbutin-kojic-acid-derma-care-for-pigmentation-marks-promotes-even-skin-tone-otc328194,,OTC,2
+PLAYGARD MORE PLAY ULTRA THIN 3S,Playgard More Play + Super Dotted Combo Pack Condom,OTC,https://www.1mg.com/otc/playgard-more-play-super-dotted-combo-pack-condom-otc372510,,OTC,3
+OMNIGEL OINT 75GM,"Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",OTC,https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479,,OTC,2
+CEFABLAST 500MG,Cefablast CV 500mg/125mg Tablet,DRUG,https://www.1mg.com/drugs/cefablast-cv-500mg-125mg-tablet-698211,Cefuroxime+Clavulanic Acid,ANTI INFECTIVES,2
+ORS APPLE RANBAXY,Revital Recharge ORS Apple,OTC,https://www.1mg.com/otc/revital-recharge-ors-apple-otc1123576,,OTC,2
+VIGORE 100MG,Vigorez 100mg Tablet,DRUG,https://www.1mg.com/drugs/vigorez-100mg-tablet-1038053,Sildenafil,SEX STIMULANTS REJUVENATORS,2
+CASTOR NF BADI 25GM CREAM,Castor NF Plus Cream,DRUG,https://www.1mg.com/drugs/castor-nf-plus-cream-1114905,Fluocinolone acetonide+Ciprofloxacin+Clotrimazole,DERMA,3
+DERMINA FACEWASH 60GM,Dhanvantari Galo Churna ( 60gm Each ),OTC,https://www.1mg.com/otc/dhanvantari-galo-churna-60gm-each-otc1149597,,OTC,1
+MECOFOL PLUS ING,Mecofol Plus D3 Tablet,DRUG,https://www.1mg.com/drugs/mecofol-plus-d3-tablet-966974,Methylcobalamin+Alpha Lipoic Acid+Vitamin B6 (Pyridoxine)+Folic Acid+Vitamin D3,VITAMINS MINERALS NUTRIENTS,2
+SUMO SPRAY 55GM,Sumo Spray,OTC,https://www.1mg.com/otc/sumo-spray-otc698241,,OTC,2
+DYDROTUF 10MG,Dydrovue 10mg Tablet,DRUG,https://www.1mg.com/drugs/dydrovue-10mg-tablet-973332,Dydrogesterone,GYNAECOLOGICAL,1
+MUPICIP CREAM 5GM,Quariderm Akme 5gm Cream,DRUG,https://www.1mg.com/drugs/quariderm-akme-5gm-cream-909943,Betamethasone+Clotrimazole+Neomycin,DERMA,2
+OMNIGEL SPRAY 35GM,"Omnigel Spray from Cipla for Fast relief from Pain, Sprain and Strain",OTC,https://www.1mg.com/otc/omnigel-spray-from-cipla-for-fast-relief-from-pain-sprain-and-strain-otc342285,,OTC,2
+IBUWAY,Iwipe Wet Sterilized Cleaning Tissue,OTC,https://www.1mg.com/otc/iwipe-wet-sterilized-cleaning-tissue-otc710453,,OTC,0
+MEDILICE LICE FORMULA 30GM,Medilice Cream Wash | Single Application Lice Formula,OTC,https://www.1mg.com/otc/medilice-cream-wash-single-application-lice-formula-otc27316,,OTC,3
+SITAWICK MET TRIO,Met XL Trio 25 Tablet,DRUG,https://www.1mg.com/drugs/met-xl-trio-25-tablet-709872,Cilnidipine+Metoprolol Succinate+Telmisartan,CARDIAC,2
+DOLOFRESH BLISTER,Compeed Blister Plaster Mix Pack,OTC,https://www.1mg.com/otc/compeed-blister-plaster-mix-pack-otc610093,,OTC,1
+FLOXIP 250MG,Floxip 100mg Infusion,DRUG,https://www.1mg.com/drugs/floxip-100mg-infusion-252146,Ciprofloxacin,ANTI INFECTIVES,1
+KETOFORD CREAM 15GM,Ketoford 2% Cream 15gm for Skin Infections,DRUG,https://www.1mg.com/drugs/ketoford-2-cream-15gm-for-skin-infections-541903,Ketoconazole,DERMA,3
+PODOXIM OF,Podoxim CV 200 mg/125 mg Tablet,DRUG,https://www.1mg.com/drugs/podoxim-cv-200-mg-125-mg-tablet-300741,Cefpodoxime Proxetil+Clavulanic Acid,ANTI INFECTIVES,1
+ORS ORANGE 42GM CIPLA,Prolyte ORS for Restoring Body Fluids & Electrolytes | Flavour Powder Refreshing Orange,OTC,https://www.1mg.com/otc/prolyte-ors-for-restoring-body-fluids-electrolytes-flavour-powder-refreshing-orange-otc324897,,OTC,2
+DOLOFAB ALU ALU,Oflapoon Alu Tablet,DRUG,https://www.1mg.com/drugs/oflapoon-alu-tablet-249753,Nimesulide,PAIN ANALGESICS,2
+LEEFORD H AMAZON CARD 9000,Entros KL 920 L Height Adjustable Walking Stick Silver,OTC,https://www.1mg.com/otc/entros-kl-920-l-height-adjustable-walking-stick-silver-otc682822,,OTC,1
+KETOFORD DT,Ketoford 10mg Tablet DT,DRUG,https://www.1mg.com/drugs/ketoford-10mg-tablet-dt-412021,Ketorolac,PAIN ANALGESICS,2
+SENSOBEX KF 50GM,Sensodent KF Cavity Protection Toothpaste,OTC,https://www.1mg.com/otc/sensodent-kf-cavity-protection-toothpaste-otc1047272,,OTC,1
+MEFIWAY,Fytika Flexi Move Tablet,OTC,https://www.1mg.com/otc/fytika-flexi-move-tablet-otc855707,,OTC,0
+WELTIV Q10 PLUS,Weltive-Q10 Plus Softgel Capsule,OTC,https://www.1mg.com/otc/weltive-q10-plus-softgel-capsule-otc741965,,OTC,3
+ITRATEK 100MG,Itrodac 100mg Capsule,DRUG,https://www.1mg.com/drugs/itrodac-100mg-capsule-683382,Itraconazole,ANTI INFECTIVES,1
+CODIFRESH LC,LC Syrup,DRUG,https://www.1mg.com/drugs/lc-syrup-1129392,Levocetirizine,RESPIRATORY,1
+KETOFRESH SHAMPOO,Ketokesh Shampoo,DRUG,https://www.1mg.com/drugs/ketokesh-shampoo-798670,Ketoconazole+Zinc pyrithione,DERMA,1
+OXYSUPER 250MG,Bivasave 250mg Injection,DRUG,https://www.1mg.com/drugs/bivasave-250mg-injection-48528,Bivalirudin,CARDIAC,1
+MUSLI PLUS AUSTRO 10X10,Glihypo-Plus 10 Tablet,DRUG,https://www.1mg.com/drugs/glihypo-plus-10-tablet-120200,Rosuvastatin,CARDIAC,1
+BETANIK,Botanic Boost Mucuna Tablet,OTC,https://www.1mg.com/otc/botanic-boost-mucuna-tablet-otc1117114,,OTC,0
+FASTRAN MR 10T,Opel Tablet MR,DRUG,https://www.1mg.com/drugs/opel-tablet-mr-227280,Omeprazole,GASTRO INTESTINAL,1
+SUMO SPRAY 35GM,Sumo Spray,OTC,https://www.1mg.com/otc/sumo-spray-otc698241,,OTC,2
+NIMUTAL PLUS G,Nimutal Plus Tablet,DRUG,https://www.1mg.com/drugs/nimutal-plus-tablet-202413,Nimesulide+Paracetamol,PAIN ANALGESICS,2
+VIGROMEN BLUE 10X10,Vigromen Malt,OTC,https://www.1mg.com/otc/vigromen-malt-otc852443,,OTC,1
+CLINSKIN CREAM 15GM,ClinSkin Cream,DRUG,https://www.1mg.com/drugs/clinskin-cream-575587,Hydroquinone+Mometasone+Tretinoin,DERMA,2
+ACEFEN- PLUS ALU-ALU,Caltoday Plus,DRUG,https://www.1mg.com/drugs/caltoday-plus-855009,Calcitriol+Calcium Carbonate+Zinc Sulfate,VITAMINS MINERALS NUTRIENTS,1
+QTAX DT 200MG,Quincef 200mg Tablet DT,DRUG,https://www.1mg.com/drugs/quincef-200mg-tablet-dt-532183,Cefixime,ANTI INFECTIVES,2
+MEDISALIC OINT 20GM,MEDIsalic Ointment,DRUG,https://www.1mg.com/drugs/medisalic-ointment-193322,Clobetasol+Salicylic Acid,DERMA,2
+KAYSLIDE PLUS GOLD,Jeevan Gold Plus Capsule,OTC,https://www.1mg.com/otc/jeevan-gold-plus-capsule-otc1093586,,OTC,2
+METRO IV ZEE,Metro 500mg Infusion,DRUG,https://www.1mg.com/drugs/metro-500mg-infusion-296965,Metronidazole,GASTRO INTESTINAL,1
+DERMINA TINTED SUNSCREEN SPF-50,Lakme Sun Expert Tinted Sunscreen SPF 50 PA+++,OTC,https://www.1mg.com/otc/lakme-sun-expert-tinted-sunscreen-spf-50-pa-otc908597,,OTC,2
+CEFLOX EYE DROP,Ceflox-Dee Optic Eye/Ear Drops,DRUG,https://www.1mg.com/drugs/ceflox-dee-optic-eye-ear-drops-626369,Ciprofloxacin+Dexamethasone+Hydroxypropylmethylcellulose,OPHTHAL OTOLOGICALS,3
+WAYFENAC MR,Wayfenac Tablet,DRUG,https://www.1mg.com/drugs/wayfenac-tablet-807707,Diclofenac+Paracetamol,PAIN ANALGESICS,1
+ORALYTE LIQUID APPLE,Electral Rtd Liquid Apple,OTC,https://www.1mg.com/otc/electral-rtd-liquid-apple-otc167697,,OTC,2
+KETOCIP SOAP 75GM,Ketonid 75gm Bar Soap,DRUG,https://www.1mg.com/drugs/ketonid-75gm-bar-soap-417541,Ketoconazole,DERMA,2
+PREGLINE TEST KIT,Ezeefind Early Pregnancy Test Test Kit,OTC,https://www.1mg.com/otc/ezeefind-early-pregnancy-test-test-kit-otc905622,,OTC,2
+SMARTWAY ON CELLO OPALWARE DESSERT,"Delight Nuts Celebration Festive Gift Box - Party Snack, Salted Peanuts, Choco Dates Dark",OTC,https://www.1mg.com/otc/delight-nuts-celebration-festive-gift-box-party-snack-salted-peanuts-choco-dates-dark-otc1128041,,OTC,1
+FEROFER 6T,,,,,,0
+OPTIBEX TEAR DROP,Optibex Tear Eye Drop,DRUG,https://www.1mg.com/drugs/optibex-tear-eye-drop-523241,Carboxymethylcellulose,OPHTHAL,3
+TELTAN MT5040,Teltan MT 40mg/25mg Tablet,DRUG,https://www.1mg.com/drugs/teltan-mt-40mg-25mg-tablet-951976,Telmisartan+Metoprolol Succinate,CARDIAC,1
+AUSTRO MULTIVITAMIN BHATA,Austro Platost Syrup,OTC,https://www.1mg.com/otc/austro-platost-syrup-otc829334,,OTC,1
+OXYNUT 40MG,Ozomet V 500mg/0.3mg Tablet,DRUG,https://www.1mg.com/drugs/ozomet-v-500mg-0.3mg-tablet-950569,Metformin+Voglibose,ANTI DIABETIC,0
+GLOBEX GM CREAM 10GM,Clobenate-Gm Cream 10gm For Skin Infections,DRUG,https://www.1mg.com/drugs/clobenate-gm-cream-10gm-for-skin-infections-182024,Clobetasol+Gentamicin+Miconazole,DERMA,3
+VALU NUT DHA POWDER 200GM,"NutraMarck Protoliv Protein Powder | Enriched with DHA | Supports Liver Health, Digestion & Immunity (200gm Each) Delicious Chocolate Sugar Free",OTC,https://www.1mg.com/otc/nutramarck-protoliv-protein-powder-enriched-with-dha-supports-liver-health-digestion-immunity-200gm-each-delicious-chocolate-sugar-free-otc1058734,,OTC,4
+XINOCLAV 625MG,Xinoclav 500mg/125mg Tablet,DRUG,https://www.1mg.com/drugs/xinoclav-500mg-125mg-tablet-1115793,Amoxycillin + Clavulanic Acid,ANTI INFECTIVES,1
+LONG DRIVE SPRAY 20GM,Long Drive Spray,DRUG,https://www.1mg.com/drugs/long-drive-spray-741682,Lidocaine,PAIN ANALGESICS,3
+DERMA KT NEO CREAM 15GM,Dermaday-KT Cream,DRUG,https://www.1mg.com/drugs/dermaday-kt-cream-698538,Ketoconazole+Beclometasone+Neomycin,DERMA,3
+VIGROMEN BLUE 12X,Bjain Silicea Biochemic Tablet 12X,OTC,https://www.1mg.com/otc/bjain-silicea-biochemic-tablet-12x-otc1144056,,OTC,1
+TOOTH BRUSH COLGATE SUPER FLEXI 112,Colgate Super Flexi Toothbrush Soft Orange,OTC,https://www.1mg.com/otc/colgate-super-flexi-toothbrush-soft-orange-otc1066512,,OTC,5
+CITIHEM PLUS,Pee Safe 100% Organic Cotton Biodegradable Tampons Super Plus,OTC,https://www.1mg.com/otc/pee-safe-100-organic-cotton-biodegradable-tampons-super-plus-otc543682,,OTC,1
+FOURDERM CREAM 10GM,Farderm GM Cream,DRUG,https://www.1mg.com/drugs/farderm-gm-cream-550166,Clobetasol+Miconazole+Neomycin,DERMA,1
+SUMO SPRAY 75GM,Sumo Spray,OTC,https://www.1mg.com/otc/sumo-spray-otc698243,,OTC,2
+SKINSHINE SUNSCREEN LOTION 50SPF,Suncros 50 Aqua Sunscreen SPF 50 | For Sensitive Skin | Non-Greasy Lotion,OTC,https://www.1mg.com/otc/suncros-50-aqua-sunscreen-spf-50-for-sensitive-skin-non-greasy-lotion-otc146865,,OTC,2
+NARI JIWAN,Sanjay Baljiwan Nari Sudha Pey Syrup (200ml) & Nari Sudha Capsule (20),OTC,https://www.1mg.com/otc/sanjay-baljiwan-nari-sudha-pey-syrup-200ml-nari-sudha-capsule-20-otc855949,,OTC,2
+SHAGUN OIL BOTTLE,Amrit Navjeevan Alpic Hair Oil (100ml Each) Bottle,OTC,https://www.1mg.com/otc/amrit-navjeevan-alpic-hair-oil-100ml-each-bottle-otc926749,,OTC,2
+OFRAMAX INJ 1GM,Oframax 1gm Injection,DRUG,https://www.1mg.com/drugs/oframax-1gm-injection-281978,Ceftriaxone,ANTI INFECTIVES,3
+NIMFRESH COLD,Nimrest Cold Tablet,DRUG,https://www.1mg.com/drugs/nimrest-cold-tablet-642698,Caffeine+Cetirizine+Nimesulide+Paracetamol+Phenylephrine,RESPIRATORY,1
+OLIGRO OIL,Oligro Olive Oil with Vitamin-E,OTC,https://www.1mg.com/otc/oligro-olive-oil-with-vitamin-e-otc344314,,OTC,2
+CLINCITOP GEL 20GM,Clincitop Gel,DRUG,https://www.1mg.com/drugs/clincitop-gel-322879,Clindamycin,ANTI INFECTIVES,2
+ZATURA 500MG,D Zithro 500mg Tablet,DRUG,https://www.1mg.com/drugs/d-zithro-500mg-tablet-405445,Azithromycin,ANTI INFECTIVES,1
+ITRACIP 200MG,Itracip 200 Capsule,DRUG,https://www.1mg.com/drugs/itracip-200-capsule-445556,Itraconazole,ANTI INFECTIVES,1
+ANGLOKOLD TOTAL,Rafron Total Tablet,DRUG,https://www.1mg.com/drugs/rafron-total-tablet-663701,Ondansetron+Rabeprazole,GASTRO INTESTINAL,1
+ALBD BLISTER 6TAB,Compeed Blister Plaster Mix Pack,OTC,https://www.1mg.com/otc/compeed-blister-plaster-mix-pack-otc610093,,OTC,1
+NEURODAN FORTE,SB Neurogin Forte Tonic,OTC,https://www.1mg.com/otc/sb-neurogin-forte-tonic-otc851092,,OTC,1
+ZYNAC INJ,Zynaclox 250mg/250mg Injection,DRUG,https://www.1mg.com/drugs/zynaclox-250mg-250mg-injection-627145,Amoxycillin+Cloxacillin,ANTI INFECTIVES,2
+ROXIKAA 150MG,Roxika 150mg Tablet,DRUG,https://www.1mg.com/drugs/roxika-150mg-tablet-274704,Roxithromycin,ANTI INFECTIVES,1
+PREGAMONTH HCG CARD,Pregamonth One Step HCG Pregnancy Card,OTC,https://www.1mg.com/otc/pregamonth-one-step-hcg-pregnancy-card-otc1117226,,OTC,3
+AUSTRO SHILAJEET MALT 400GM,Combo Pack of Celevida Kesar Elaichi Nutrition Drink 400gm & Sugar Free Gold Low Calorie Sweetener Super Saver Pack 500 Pellet,OTC,https://www.1mg.com/otc/combo-pack-of-celevida-kesar-elaichi-nutrition-drink-400gm-sugar-free-gold-low-calorie-sweetener-super-saver-pack-500-pellet-otc681979,,OTC,1
+VONOVIA 20MG,Venuvi M 500mg/0.3mg Tablet SR,DRUG,https://www.1mg.com/drugs/venuvi-m-500mg-0.3mg-tablet-sr-558473,Metformin+Voglibose,ANTI DIABETIC,0
+CENITRA OC CREAM 15GM,Candipraz OC Cream,DRUG,https://www.1mg.com/drugs/candipraz-oc-cream-681884,Ofloxacin+Ornidazole+Itraconazole+Clobetasol,DERMA,2
+QUARD DERM 15GM,Kstryn 15gm Sachet,DRUG,https://www.1mg.com/drugs/kstryn-15gm-sachet-255135,Calcium Polystyrene Sulphonate,UROLOGY,1
+TRIOZONE SUNSCREEN 50SPF,Curetech Skincare Trizone Silicon Sunscreen Gel SPF 50+  PA+++,OTC,https://www.1mg.com/otc/curetech-skincare-trizone-silicon-sunscreen-gel-spf-50-pa-otc982260,,OTC,1
+MEGACLAV DS,Megaclav 250mg/125mg Tablet,DRUG,https://www.1mg.com/drugs/megaclav-250mg-125mg-tablet-317347,Amoxycillin + Clavulanic Acid,ANTI INFECTIVES,1
+TOREX SUGARFEE,Torex Syrup,DRUG,https://www.1mg.com/drugs/torex-syrup-516634,Diphenhydramine+Ammonium Chloride+Terpin Hydrate+Sodium Citrate,RESPIRATORY,1
+ETHERTEK SUPRA INJ,Ethertek 150mg Injection,DRUG,https://www.1mg.com/drugs/ethertek-150mg-injection-432361,Alpha-Beta Arteether,ANTI MALARIALS,2
+CEFPOD-50-DS WITH WATER,Soulflower Rosemary Water with Mint,OTC,https://www.1mg.com/otc/soulflower-rosemary-water-with-mint-otc1130907,,OTC,2
+KOLD CARE DS,Cognicare DS Tablet,OTC,https://www.1mg.com/otc/cognicare-ds-tablet-otc930530,,OTC,2
+PILOGO H CREAM 30GM,Physiogel Hypoallergenic Daily Moisture Therapy Cream | Face Care Product for Dry & Sensitive Skin,OTC,https://www.1mg.com/otc/physiogel-hypoallergenic-daily-moisture-therapy-cream-face-care-product-for-dry-sensitive-skin-otc581096,,OTC,2
+KETODILA SHAMPOO,Ketosil Shampoo,DRUG,https://www.1mg.com/drugs/ketosil-shampoo-793859,Ketoconazole+Zinc pyrithione,DERMA,1
+RBC RED GOLD,Jolly Red Gold Ortho Oil,OTC,https://www.1mg.com/otc/jolly-red-gold-ortho-oil-otc508412,,OTC,2
+CADCAL JOINT ROSE,Orthojoint Rose Tablet,OTC,https://www.1mg.com/otc/orthojoint-rose-tablet-otc1152438,,OTC,2
+VALSACUBE-200 - 7TAB,Yuvika Jufa - Zufa - Hyssopus Officinalis Linn - Hyssop - Issopo - Holy Herb,OTC,https://www.1mg.com/otc/yuvika-jufa-zufa-hyssopus-officinalis-linn-hyssop-issopo-holy-herb-otc490381,,OTC,1
+ZEEGOLD WOMEN SG,Zeegold Women Soft Gelatin Capsule,OTC,https://www.1mg.com/otc/zeegold-women-soft-gelatin-capsule-otc995205,,OTC,2
+KETOSCORE 6 CREAM 15GM,ketoscore 6 Cream,DRUG,https://www.1mg.com/drugs/ketoscore-6-cream-1093121,Clioquinol (Iodochlorhydroxyquin)+Clobetasol+Dexpanthenol+Ketoconazole+Neomycin+Tolnaftate,DERMA,13
+OMNIGEL SPRAY 75GM,"Omnigel Spray from Cipla for Fast relief from Pain, Sprain and Strain",OTC,https://www.1mg.com/otc/omnigel-spray-from-cipla-for-fast-relief-from-pain-sprain-and-strain-otc333106,,OTC,2
+MOXABERT 500MG YELLOW,Careque Shatavari Root Yellow,OTC,https://www.1mg.com/otc/careque-shatavari-root-yellow-otc1118646,,OTC,1
+CLINSOL SOAP 75GM,Leeford Clinsol Anti Acne Soap,OTC,https://www.1mg.com/otc/leeford-clinsol-anti-acne-soap-otc232092,,OTC,2
+DOLOFAB BLISTER,Compeed Blister Plaster Mix Pack,OTC,https://www.1mg.com/otc/compeed-blister-plaster-mix-pack-otc610093,,OTC,1
+DOXIRICH LB 10C,,,,,,0
+SUMO GEL 30GM,Shri Nath Real Shine Shampoo with Aloe Vera Gel 10gm free,OTC,https://www.1mg.com/otc/shri-nath-real-shine-shampoo-with-aloe-vera-gel-10gm-free-otc516358,,OTC,1
+LULITEC 30GM CIPLA,Lulitec Cream,DRUG,https://www.1mg.com/drugs/lulitec-cream-414109,Luliconazole,DERMA,1
+FARO XT,Farobit-XT Softgel Capsule,DRUG,https://www.1mg.com/drugs/farobit-xt-softgel-capsule-1009456,Ferrous Ascorbate+Folic Acid+Methylcobalamin+Zinc,VITAMINS MINERALS NUTRIENTS,2
+CEFFOREN CV,Ceforan-CV Tablet,DRUG,https://www.1mg.com/drugs/ceforan-cv-tablet-1046680,Cefpodoxime Proxetil+Clavulanic Acid,ANTI INFECTIVES,1
+FERRORANGE,,,,,,0
+STICKOBAND 100S RED,Red X Injection,DRUG,https://www.1mg.com/drugs/red-x-injection-470777,Elemental Iron,BLOOD RELATED,1
+NICOTEX 4MG MINT PLUS,Nicotex Nicotine Gum 4mg Chewing Gums Mint Plus,DRUG,https://www.1mg.com/drugs/nicotex-nicotine-gum-4mg-chewing-gums-mint-plus-857652,Nicotine,NEURO CNS,4
+BREATHBLISS SOF,Np Sof 200mg Soft Gelatin Capsule,DRUG,https://www.1mg.com/drugs/np-sof-200mg-soft-gelatin-capsule-552017,Progesterone (Natural Micronized),GYNAECOLOGICAL,1
+WAYFENAC GEL 30GM,Pirox Gel 30gm,DRUG,https://www.1mg.com/drugs/pirox-gel-30gm-28233,Piroxicam,PAIN ANALGESICS,2
+LACTOMED SOL,Lactomed Easy Solution,DRUG,https://www.1mg.com/drugs/lactomed-easy-solution-507706,Lactulose,GASTRO INTESTINAL,2
+CETRIZOLE,Cotrizole Injection,DRUG,https://www.1mg.com/drugs/cotrizole-injection-421297,Sulfamethopyrazine+Trimethoprim,ANTI INFECTIVES,0
+CLOCIP POWDER 100GM,"Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",DRUG,https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487,Clotrimazole,DERMA,2
+CALCIQUICK SUPER,"Calciquick D3 60K Capsule for Bone, Joint and Muscle Health",OTC,https://www.1mg.com/otc/calciquick-d3-60k-capsule-for-bone-joint-and-muscle-health-otc323385,,OTC,1
